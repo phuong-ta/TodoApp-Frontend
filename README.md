@@ -3,7 +3,10 @@
 # First clone this repository
 
 # Install dependencies. Make sure you already have nodejs & npm installed in your system.
-run command "npm install", and then run "npm start".
+
+# How install this app
+1. clone this app 
+2. run command "npm install", and then run "npm start".
 
 # How to use?
 1. After serve run (Laravel) already, open this app. Frist page is Login page. 
